@@ -71,3 +71,5 @@ var v2 = (92/sprite_get_height(testroom1_atlas))
 							  u2, v1);
 							  
 	vertex_end(vb_plane);
+	
+vb_plane = obj_import("YAAG-assets\\tritest.obj");

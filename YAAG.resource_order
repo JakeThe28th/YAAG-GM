@@ -8,6 +8,7 @@
     {"name":"testwall_92x92","order":1,"path":"sprites/testwall_92x92/testwall_92x92.yy",},
     {"name":"Note3","order":2,"path":"notes/Note3/Note3.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"spr_dungeon","order":4,"path":"sprites/spr_dungeon/spr_dungeon.yy",},
     {"name":"create_triangle","order":1,"path":"scripts/create_triangle/create_triangle.yy",},
     {"name":"testfloor_128x92","order":2,"path":"sprites/testfloor_128x92/testfloor_128x92.yy",},
     {"name":"testroom1_atlas","order":3,"path":"sprites/testroom1_atlas/testroom1_atlas.yy",},
