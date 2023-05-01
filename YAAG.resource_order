@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings": [
+    {"name":"3d","order":6,"path":"folders/Scripts/3d.yy",},
+    {"name":"map","order":7,"path":"folders/Scripts/map.yy",},
+    {"name":"object","order":1,"path":"folders/Scripts/map/object.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"testwall_92x92","order":1,"path":"sprites/testwall_92x92/testwall_92x92.yy",},
+    {"name":"Note3","order":2,"path":"notes/Note3/Note3.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"create_triangle","order":1,"path":"scripts/create_triangle/create_triangle.yy",},
+    {"name":"testfloor_128x92","order":2,"path":"sprites/testfloor_128x92/testfloor_128x92.yy",},
+    {"name":"testroom1_atlas","order":3,"path":"sprites/testroom1_atlas/testroom1_atlas.yy",},
+    {"name":"obj_camera","order":2,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_level","order":3,"path":"objects/obj_level/obj_level.yy",},
+    {"name":"Note2","order":1,"path":"notes/Note2/Note2.yy",},
+    {"name":"create_vertex_format","order":5,"path":"scripts/create_vertex_format/create_vertex_format.yy",},
+  ],
+}
