@@ -1,9 +1,10 @@
+#region Setup
+
 //Setup Game
 instance_create_depth(x, y, depth, obj_player);
 instance_create_depth(x, y, depth, obj_camera);
 
 //Setup 3D
-
 gpu_set_zwriteenable(true); //Enables writing to the z-buffer
 gpu_set_ztestenable(true);  //Enables depth testing
 layer_force_draw_depth(true, 0);
@@ -19,7 +20,13 @@ camera = camera_create();
 	//read 
 	//https://maddestudiosgames.com/guide-getting-started-with-3d-in-gms2-project-download/ for more information.
 
-create_vertex_format();
+create_vertex_format(); // Create the vertex format
+
+#endregion
+
+#region Create a test room; one wall and the floor.
+
+// Uses the width and height to create the two planes.
 
 vb_plane = vertex_create_buffer();
 
@@ -72,4 +79,6 @@ var v2 = (92/sprite_get_height(testroom1_atlas))
 							  
 	vertex_end(vb_plane);
 	
-vb_plane = obj_import("YAAG-assets\\tritest.obj");
+#endregion
+	
+//obj_test = obj_import("YAAG-assets\\tritest.obj");

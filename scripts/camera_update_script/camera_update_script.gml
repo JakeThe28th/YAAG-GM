@@ -1,5 +1,3 @@
-// Script assets have changed for v2.3.0 see
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function camera_update_script(){
 //Set up camera location
 var center_x = 0;
@@ -33,6 +31,5 @@ if 1 = 1 {
 
 //Assign the matrix to the camera. This updates were the camera is looking from, without having to unnecessarily update the projection.
 camera_set_view_mat(view_camera[0], mLookat);
-
 
 }

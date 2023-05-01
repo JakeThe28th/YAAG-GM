@@ -1,7 +1,8 @@
-/// @description Insert description here
-// You can write your code in this editor
+// Draw the 3D models.
+// Arguments are just vertex_buffer, primitive type and texture.
 
-//Arguments are just vertex_buffer, primitive type and texture.
+vertex_submit(vb_plane, pr_trianglelist, sprite_get_texture(testroom1_atlas, 0));
+/* Disable the test room by commenting out the above */
 
-//vertex_submit(vb_plane, pr_trianglelist, sprite_get_texture(testroom1_atlas, 0));
-vertex_submit(vb_plane, pr_trianglelist, sprite_get_texture(spr_dungeon, 0));
+//vertex_submit(obj_test, pr_trianglelist, sprite_get_texture(spr_dungeon, 0));
+/* Disable the obj import test by commenting out the above */

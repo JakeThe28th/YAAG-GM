@@ -1,4 +1,5 @@
 // Import a .obj file as a vbo.
+/* THIS IS NOT FINISHED AND CURRENTLY BROKEN */
 function obj_import(fname) {
 
 	var object_buffer = vertex_create_buffer();

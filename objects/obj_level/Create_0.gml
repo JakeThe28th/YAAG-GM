@@ -1,4 +1,12 @@
-	level_presets = ds_map_create(); 
+/* 
+	Planning for the level format.
+	NONE OF THIS IS IMPLEMENTED YET.
+	
+	I'm planning on having a room contain a list of "objects", which represent well, objects in the game
+	
+*/
+
+level_presets = ds_map_create(); 
 /*  DS map containing every possible room,
 	which also lists their probabilities, 
 	unique generation options, and level */

@@ -48,7 +48,6 @@
   },
   "resources": [
     {"id":{"name":"testwall_92x92","path":"sprites/testwall_92x92/testwall_92x92.yy",},},
-    {"id":{"name":"Note3","path":"notes/Note3/Note3.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"spr_dungeon","path":"sprites/spr_dungeon/spr_dungeon.yy",},},
     {"id":{"name":"create_triangle","path":"scripts/create_triangle/create_triangle.yy",},},
@@ -56,8 +55,6 @@
     {"id":{"name":"testroom1_atlas","path":"sprites/testroom1_atlas/testroom1_atlas.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},},
-    {"id":{"name":"Note2","path":"notes/Note2/Note2.yy",},},
-    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"obj_import","path":"scripts/obj_import/obj_import.yy",},},
     {"id":{"name":"testwall_128x92","path":"sprites/testwall_128x92/testwall_128x92.yy",},},
     {"id":{"name":"camera_update_script","path":"scripts/camera_update_script/camera_update_script.yy",},},
